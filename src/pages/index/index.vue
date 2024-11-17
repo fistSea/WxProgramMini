@@ -18,7 +18,8 @@ fetchGitHubRepo().then((res) => {
 </script>
 
 <template>
-  <Counter />
+222
+  <!-- <Counter /> -->
 </template>
 
 <route lang="json">

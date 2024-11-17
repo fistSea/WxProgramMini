@@ -7,7 +7,7 @@
 </template>
 <script setup>
 import { fetchGitHubRepo } from "@/api";
-
+console.log("count");
 fetchGitHubRepo().then((res) => {
   console.log(res);
 });
